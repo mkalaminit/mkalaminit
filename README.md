@@ -60,7 +60,7 @@
 <h2 align="center" style="color:#04AA6D;">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mkalaminit&theme=gruvbox&no-frame=true&no-bg=true" alt="mkalaminit's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mkalaminit&theme=onedark" alt="mkalaminit's GitHub Trophies" />
 </p>
 
 ---
