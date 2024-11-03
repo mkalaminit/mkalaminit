@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/mkalamin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://alamin.tech/" target="_blank">
+  <a href="https://mkalamin.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website" />
   </a>
 
