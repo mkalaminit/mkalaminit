@@ -30,10 +30,6 @@ I care about **clean code**, **performance**, and **business results**.
 
 ---
 
-## Featured work (from my GitHub)
-- **portfolio-dev** — Next.js portfolio project (JS/SCSS)  
-- **bkash (fork)** — PHP client for bKash Payment Gateway API  
-- **redx-courier (fork)** — Laravel package for RedX courier integration  
 
 
 
