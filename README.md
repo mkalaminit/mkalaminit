@@ -35,7 +35,7 @@ I care about **clean code**, **performance**, and **business results**.
 - **bkash (fork)** — PHP client for bKash Payment Gateway API  
 - **redx-courier (fork)** — Laravel package for RedX courier integration  
 
-> Tip: Add 2–3 pinned repos on your GitHub profile to highlight the best work.
+
 
 ---
 
